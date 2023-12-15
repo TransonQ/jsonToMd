@@ -8,7 +8,6 @@ crawlee_storage
 storage
 .DS_Store
 
-!package.json
 !package-lock.json
 !tsconfig.json
 
