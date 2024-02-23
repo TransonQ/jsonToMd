@@ -10,9 +10,9 @@ storage
 
 !package-lock.json
 !tsconfig.json
-!readme.md
 
 # any output from the crawler
 *.json
 *.md
+!readme.md
 pnpm-lock.yaml
